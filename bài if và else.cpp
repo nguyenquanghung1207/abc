@@ -7,6 +7,7 @@ int main()
 	cout << "nhap so gio m gui xe: ";
 	cin >> sogio;
 	
+	
 	if (sogio <= 4) {
 		tongtien = 50000;
 
